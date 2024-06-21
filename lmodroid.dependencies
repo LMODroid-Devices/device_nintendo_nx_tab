@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "LMODroid-Devices/device_nintendo_nx",
+    "target_path": "device/nintendo/nx"
+  }
+]
